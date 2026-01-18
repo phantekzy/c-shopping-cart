@@ -1,0 +1,6 @@
+# Ignore compiled binaries
+*.out
+*.o
+*.exe
+main
+shopping_cart
